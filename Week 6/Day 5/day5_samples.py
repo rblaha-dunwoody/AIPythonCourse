@@ -1,6 +1,5 @@
 # Creating and Transforming Features
 
-
 # Feature Creation
 #   What is Feature Creation?
 #       - Feature Creation involves deriving new, meaningful features from existing ones to enhance a model's ability to capture important patterns in data
