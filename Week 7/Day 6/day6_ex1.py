@@ -6,8 +6,7 @@ from sklearn.metrics import classification_report, roc_auc_score
 from imblearn.over_sampling import SMOTE
 
 # Load dataset
-url = "https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv"
-df = pd.read_csv(url)
+df = pd.read_csv("creditcard.csv")
 
 # Explore dataset
 print("Dataset Info:\n")
