@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, roc_auc_score
 from imblearn.over_sampling import SMOTE
 
 # Load dataset
-df = pd.read_csv("creditcard.csv")
+df = pd.read_csv("../../../Resources/AIPythonCourse/creditcard.csv")
 
 # Explore dataset
 print("Dataset Info:\n")
