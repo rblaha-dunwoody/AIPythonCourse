@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\blarya\\Projects\\venv_py3_11\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:/Users/blarya/Projects/venv_py3_11/Lib/site-packages"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.typeCheckingMode": "off"
+}
