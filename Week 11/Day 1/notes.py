@@ -45,5 +45,5 @@
 #   Speech Recognition
 #       - Understand spoken words and phrases
 #
-#   Video Grame Prediction
+#   Video Frame Prediction
 #       - Anticipate future frames in video sequences
