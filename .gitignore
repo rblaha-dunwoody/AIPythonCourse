@@ -15,3 +15,4 @@ dist/
 # Ignore data downloaded from the neural network datasets (that data will be downloaded when run locally)
 **/data/
 **/logs/
+**/results/
